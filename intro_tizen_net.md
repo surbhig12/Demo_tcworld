@@ -1,8 +1,8 @@
 # Introduction to Tizen .NET Application
 
-Tizen .NET is an exiting new way to develop applications for the Tizen operating system, running on 50 million Samsung devices, including TVs, wearables, mobile phones, and many other IoT devices around the world.
+Tizen .NET is an exciting new way to develop applications for the Tizen operating system, running on 50 million Samsung devices, including TVs, wearables, mobile phones, and many other IoT devices around the world.
 
-The existing Tizen frameworks are either C-based with no advantages of a managed runtime, or HTML5-based with fewer features and lower performance than the C-based solution. With Tizen .NET, you can use the C# programming language, the Common Language Infrastructure standards, and benefits from a managed runtime for faster application development and code execution, which is efficient and secure
+The existing Tizen frameworks are either C-based with no advantages of a managed runtime, or HTML5-based with fewer features and lower performance than the C-based solution. With Tizen .NET, you can use the C# programming language, the Common Language Infrastructure standards, and benefits from a managed runtime for faster application development and code execution, which is efficient and secure.
 
 The introduction to .Net applications documentation provides the overall information on .NET applications:
 
